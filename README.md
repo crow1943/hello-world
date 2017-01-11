@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+HI KWOK
+
+JUST FOR KIDDING. TO BE OR NOT TO BE!
